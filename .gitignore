@@ -1,0 +1,11 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.npm-cache/
+audit/
+output/
+.openai/
+debug.log
+AGENTS.md
+design-qa.md

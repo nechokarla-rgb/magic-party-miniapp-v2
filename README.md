@@ -6,11 +6,11 @@
 
 第二版包含完整服务分类、套图浏览、预约记录、商家咨询管理，以及套图上传、下架、恢复和删除流程。
 
-## 在线预览
+## 当前发布状态
 
-https://nechokarla-rgb.github.io/magic-party-miniapp-v2/
+第二版使用独立的私有 GitHub 仓库：https://github.com/nechokarla-rgb/magic-party-miniapp-v2 。
 
-当前该地址为计划发布地址；第二版尚未完成首次 GitHub 上传。第一版已发布地址是 https://nechokarla-rgb.github.io/magic-party-miniapp/ 。
+GitHub Pages 工作流已准备好；在线预览是否可用，以仓库中的部署状态为准。
 
 ## 本地运行
 

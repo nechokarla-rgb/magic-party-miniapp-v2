@@ -8,9 +8,9 @@
 
 ## 当前发布状态
 
-第二版使用独立的私有 GitHub 仓库：https://github.com/nechokarla-rgb/magic-party-miniapp-v2 。
+第二版使用独立的公开 GitHub 仓库：https://github.com/nechokarla-rgb/magic-party-miniapp-v2 。
 
-GitHub Pages 工作流已准备好。当前账号套餐不支持为此私有仓库启用 Pages，因此暂无在线预览。
+在线预览：https://nechokarla-rgb.github.io/magic-party-miniapp-v2/ 。推送到 `main` 后，GitHub Actions 会自动更新预览。
 
 ## 本地运行
 

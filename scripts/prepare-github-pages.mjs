@@ -11,7 +11,7 @@ if (!existsSync(indexFile)) {
   throw new Error("Missing GitHub Pages build input: dist/client/index.html");
 }
 
-const repository = process.env.GITHUB_REPOSITORY?.split("/").pop() || "magic-party-miniapp-v2";
+const repository = process.env.GITHUB_REPOSITORY?.split("/").pop() || "magic-party-miniapp-v2-4174";
 const basePath = `/${repository}`;
 const textExtensions = new Set([".css", ".html", ".js", ".json", ".map", ".svg", ".txt"]);
 let updatedFiles = 0;
